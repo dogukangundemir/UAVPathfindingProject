@@ -3,4 +3,3 @@ This project implements a geofence-aware path planning system for urban small Un
 
 
 
-![image](https://github.com/user-attachments/assets/daba8f7d-3d55-4f02-bd7c-7d2d5c6ac6fa)
